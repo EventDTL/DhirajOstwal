@@ -1,0 +1,178 @@
+  .secondcontainer{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    gap:20px;
+    justify-content: space-around;
+    margin: 45px 0px;
+  }
+  .oppo{
+    width: 50%;
+    padding: 20px 12px 0px 12px;
+    text-align: center;
+
+  }
+  .oppo p {
+    text-align: left;
+    margin-left: 20px;
+    font-size: 18px;
+
+  }
+  .oppo > img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+  }
+  
+
+  .onlineform{
+    width: 30%;
+    padding-top: 20px;
+    height: 490px;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .onlineform h2{
+    margin-bottom: 25px;
+  }
+  .formgroup{
+    display: flex;
+    align-items: center;
+    margin-bottom:10px ;
+    border: 1px solid grey;
+    background-color: white;
+  }
+  .formgroup input{
+    width: 100%;
+    padding: 10px;
+  }
+  .formgroup select{
+    width: 100%;
+    padding: 10px;
+    margin-bottom:10px ;
+  }
+  .formgroup button{
+    border: 1px solid grey;
+    background-color: orangered;
+    width: 100%;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 17px;
+  }
+  .marrtop{
+    margin-top: 35px;
+  }
+  .p11{
+    padding-left: 7px;
+  }
+  .p22 {
+    padding-right: 20px;
+  }
+  @media (max-width:1000px) and (min-width:650px) {
+    .secondcontainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+    }
+    .oppo{
+        width:80% ;
+
+    }
+    .onlineform{
+        width: 70% ;
+    }
+    
+  }
+ 
+
+  @media (max-width:650px) and (min-width:427px) {
+    .secondcontainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap:40px
+    }
+    .oppo{
+        width:85% ;
+
+    }
+    .onlineform{
+        width: 75% ;
+    }
+    .oppo > img {
+        width: 100%;
+        height: 230px;
+        object-fit: cover;
+      }
+    
+  }
+
+  @media (max-width:426px) {
+    .secondcontainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        /* margin: 30px 0px; */
+        margin-top: 0px;
+    }
+    
+   
+    .oppo{
+        width:100% ;
+
+    }
+    .onlineform{
+        width: 100% ;
+    }
+    .oppo > img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+      }
+      .onlineform h2{
+        font-size: 20px;
+        margin-bottom: 25px;
+      }
+      .oppo h2 {
+        font-size: 21px;
+      
+      }
+      .formgroup input{
+        padding: 7px;
+      }
+      .oppo p {
+        text-align: left;
+        margin-left: 0;
+    
+      }
+      .onlineform{
+        height: 410px;
+        border: none;
+      }
+  .formgroup button{
+    padding: 7px;
+  }
+  .formgroup select{
+    padding: 7px;
+  }
+    
+  }
+
+  .customFileLabel {
+    cursor: pointer;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  
+
+  
+

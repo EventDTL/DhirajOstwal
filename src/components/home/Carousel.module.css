@@ -1,0 +1,54 @@
+.carousel-inner {
+  position: relative;
+}
+
+.carousel-image-container {
+  position: relative;
+  height: 86vh;
+  width: 100vw;
+}
+
+.carousel-caption {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.5); 
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  z-index: 10; 
+}
+
+.carousel-caption h1,
+.carousel-caption h4 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+.carousel-caption h1 {
+  font-size: 2rem; 
+  margin-bottom: 10px;
+}
+
+.carousel-caption h4 {
+  font-size: 1.25rem; 
+  margin-bottom: 20px;
+}
+
+.carousel-caption button {
+  background-color: orangered;
+  padding: 10px 20px;
+  border-radius: 40px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.carousel-indicators button {
+  background-color: orangered;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: orangered;
+}

@@ -1,0 +1,47 @@
+.first{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+   
+  }
+  .img{
+    width: 100%;
+    height:220px;
+    position: relative;
+    
+    
+   
+  }
+  .img > nav{
+    z-index: 1; 
+    position: relative;
+    padding: 20px;
+   }
+  .nav11 > ol{
+    margin-bottom: 8px;
+    font-size: large;
+    font-weight: 600;
+  }
+  
+   .nav11 h3{
+    color: white;
+   }
+   @media (max-width:426px) {
+       
+  .nav11 > ol{
+    margin-bottom: 8px;
+    font-size: medium;
+    font-weight: 600;
+  }
+  .img > nav{
+    padding: 10px;
+   }
+   .nav11 h3{
+    font-size: larger;
+   }
+   .img{
+    height:150px;
+  }
+    
+   }

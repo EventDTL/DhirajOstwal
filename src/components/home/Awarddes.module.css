@@ -1,0 +1,23 @@
+.container {
+    padding: 24px;
+    background-color: white;
+    border-radius: 1rem;
+    width: 100%;
+  }
+  
+  .container h5 {
+    margin-bottom: 1rem;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+  
+  @media (max-width: 425px) {
+    .container {
+      padding: 0 24px;
+    }
+  }
+  
+
+   
+   
