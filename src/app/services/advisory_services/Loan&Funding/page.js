@@ -396,15 +396,15 @@ const LoanFund = () => {
             </p>
             <h2>FAQs for Startup Funding and Loans</h2>
             <h3>1. What is startup funding?</h3>
-            <span>
+            <p>
               Startup funding refers to the capital raised by an entrepreneur to
               start or expand a business. This funding can come from various
               sources such as personal savings, investors, banks, or venture
               capital firms.
-            </span>
+            </p>
 
             <h3>2. What are the different stages of startup funding?</h3>
-            <span>
+            <p>
               The stages of startup funding include: Pre-seed funding: Initial
               investment, often from personal savings or friends and family.
               Seed funding: Early-stage funding to validate the idea, often from
@@ -412,17 +412,17 @@ const LoanFund = () => {
               rounds of venture capital funding for scaling and expanding the
               business. IPO (Initial Public Offering): When a startup goes
               public to raise large sums of capital from the public market.
-            </span>
+            </p>
 
             <h3>What are government loans or schemes for startups in India?</h3>
-            <span>
+            <p>
               Some government loan schemes for startups include: MSME loans:
               Financial assistance for Micro, Small, and Medium Enterprises,
               Pradhan Mantri Mudra Yojana (PMMY): Loans for small businesses,
               Stand-Up India Scheme: Loans for women and SC/ST entrepreneurs,
               <a href="https://www.cadhirajostwal.com/services/advisory_services/StartupIndia">Startup India</a> Initiative: Government support and financial
               assistance for startups.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

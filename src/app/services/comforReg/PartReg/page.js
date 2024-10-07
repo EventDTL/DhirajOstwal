@@ -72,7 +72,7 @@ const MSME = () => {
               from the basics to the intricacies of the process.
             </p>
             <div className={styles.imageContainer}>
-              <img src="/images/Partnership Firm Registration A Complete Guide.png" alt="Partnership Registration Guide" />
+              <img src="/images/Partnership Firm Registration A Complete Guide.png" alt="Partnership Registration Guide" className={styles.img} />
             </div>
             <h2>Introduction to Partnership Firms</h2>
             <h3>What is a Partnership Firm?</h3>
@@ -84,7 +84,7 @@ const MSME = () => {
               framework of a country.
             </p>
             <p>
-              <span>Key characteristics of partnership firms include:</span>
+              <p>Key characteristics of partnership firms include:</p>
             </p>
             <div className={styles.unordered1}>
               <ul>
@@ -97,9 +97,9 @@ const MSME = () => {
               </ul>
             </div>
             <p>
-              <span>
+              <p>
                 There are several types of partnership firms, including:
-              </span>
+              </p>
             </p>
             <div className={styles.unordered1}>
               <ul>
@@ -150,10 +150,10 @@ const MSME = () => {
               </ul>
             </div>
             <p>
-              <span>
+              <p>
                 Required documents for partnership deed registration typically
                 include:
-              </span>
+              </p>
             </p>
             <div className={styles.unordered1}>
               <ul>
@@ -173,7 +173,7 @@ const MSME = () => {
               partners' liability is limited to their agreed contribution.
             </p>
             <p>
-              <span>Key features of an LLP include:</span>
+              <p>Key features of an LLP include:</p>
             </p>
             <div className={styles.unordered1}>
               <ul>
@@ -185,7 +185,7 @@ const MSME = () => {
             </div>
             <h3><a href="https://www.cadhirajostwal.com/services/comforReg/LLP">LLP</a> Registration Process</h3>
             <p>
-              <span>To register an LLP, follow these steps:</span>
+              <p>To register an LLP, follow these steps:</p>
             </p>
             <div className={styles.unordered1}>
               <ul>
@@ -198,7 +198,7 @@ const MSME = () => {
               </ul>
             </div>
             <p>
-              <span>Required documents for LLP registration include:</span>
+              <p>Required documents for LLP registration include:</p>
             </p>
             <div className={styles.unordered1}>
               <ul>
@@ -224,9 +224,9 @@ const MSME = () => {
               </ul>
             </div>
             <p>
-              <span>
+              <p>
                 To register your partnership firm online, follow these steps:
-              </span>
+              </p>
             </p>
             <div className={styles.unordered1}>
               <ul>
@@ -257,7 +257,7 @@ const MSME = () => {
               </ul>
             </div>
             <p>
-              <span>Tip:</span> Ensure all documents are clear, legible, and in
+              <p>Tip:</p> Ensure all documents are clear, legible, and in
               the correct format (usually PDF) before uploading.
             </p>
             <h2>Proprietorship vs. Partnership Firm</h2>
@@ -351,35 +351,35 @@ const MSME = () => {
               What is the minimum number of partners required to form a
               partnership firm?
             </h3>
-            <span>
+            <p>
               A partnership firm requires a minimum of two partners to be
               legally formed.
-            </span>
+            </p>
 
             <h3>Is it mandatory to register a partnership firm?</h3>
-            <span>
+            <p>
               No, it is not mandatory to register a partnership firm. However,
               registration provides legal benefits, including the ability to
               file a lawsuit in court.
-            </span>
+            </p>
 
             <h3>What is a partnership deed, and why is it important?</h3>
-            <span>
+            <p>
               A partnership deed is a legal document that outlines the terms and
               conditions of the partnership, including profit-sharing, roles,
               and responsibilities. It is crucial for preventing disputes and
               ensuring smooth operation.
-            </span>
+            </p>
 
             <h3>
               What is the difference between a general partnership and an LLP?
             </h3>
-            <span>
+            <p>
               In a general partnership, partners have unlimited liability,
               meaning their personal assets can be used to cover business debts.
               In an LLP, the liability of partners is limited to their capital
               contribution.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

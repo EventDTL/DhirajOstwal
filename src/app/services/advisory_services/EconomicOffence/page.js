@@ -490,28 +490,28 @@ const EconomicOffence = () => {
 
             <h2>FAQs: Economic Offence Wing (EOW)</h2>
             <h3>1. What is the Economic Offence Wing (EOW)?</h3>
-            <span>
+            <p>
               The Economic Offence Wing (EOW) is a specialized division within
               law enforcement agencies that investigates and handles cases
               related to economic and financial crimes, such as fraud,
               embezzlement, money laundering, and corporate scams.
-            </span>
+            </p>
 
             <h3>2. What types of cases does the EOW handle?</h3>
-            <span>
+            <p>
               The EOW typically handles cases involving: Corporate frauds, Ponzi
               schemes and investment frauds, Cyber fraud related to financial
               transactions, Money laundering, Bank frauds, Real estate scams,
               Tax evasion, Forgery and misappropriation of funds,
-            </span>
+            </p>
             <h3>3. Who can report a case to the Economic Offence Wing?</h3>
-            <span>
+            <p>
               Anyone who is a victim of <a href="https://www.cadhirajostwal.com/services/advisory_services/FinancialFraud">Financial fraud</a>, economic crime, or
               related offenses can report the case to the EOW. This includes
               individuals, businesses, financial institutions, and government
               bodies. Complaints can be filed online or in person at the EOW
               office.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

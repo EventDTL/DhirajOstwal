@@ -572,28 +572,28 @@ const ContractAgree = () => {
 
             <h2> FAQs for Contracts and Agreements</h2>
             <h3>1. What is a contract?</h3>
-            <span>
+            <p>
               A contract is a legally binding agreement between two or more
               parties that outlines the terms and obligations of each party. It
               is enforceable by law.
-            </span>
+            </p>
 
             <h3>
               2. What is the difference between a contract and an agreement?
             </h3>
-            <span>
+            <p>
               An agreement is a mutual understanding between parties, but it may
               or may not be legally enforceable. A contract is an agreement that
               has legal backing and can be enforced in a court of law.
-            </span>
+            </p>
 
             <h3>3. What are the essential elements of a valid contract?</h3>
-            <span>
+            <p>
               A valid contract must have: Offer and acceptance, Consideration
               (something of value exchanged), Free consent of both parties,
               Legal capacity of the parties to enter into a contract, Lawful
               purpose
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

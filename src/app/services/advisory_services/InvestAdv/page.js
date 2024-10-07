@@ -830,34 +830,34 @@ const InvestAdv = () => {
             </p>
             <h2>FAQs for Investment Advisory</h2>
             <h3>What is investment advisory?</h3>
-            <span>
+            <p>
               Investment advisory refers to the professional service provided by
               financial experts who offer guidance on where and how to invest
               your money to meet your financial goals. This includes advice on,
               stocks, <a href="https://www.cadhirajostwal.com/services/advisory_services/BondAdv">bonds</a>, mutual funds, real estate, and other investment
               products.
-            </span>
+            </p>
 
             <h3>2. What does an investment advisor do?</h3>
-            <span>
+            <p>
               An investment advisor helps clients by assessing their financial
               situation, understanding their goals, and recommending suitable
               investment options. They may also manage investment portfolios,
               monitor performance, and make adjustments to maximize returns
               while minimizing risks.
-            </span>
+            </p>
 
             <h3>
               3. How is an investment advisor different from a financial
               planner?
             </h3>
-            <span>
+            <p>
               An investment advisor primarily focuses on managing investments
               and giving advice on buying or selling assets. A financial
               planner, on the other hand, provides broader advice that includes
               budgeting, retirement planning, tax planning, estate planning, and
               <a href="https://www.cadhirajostwal.com/services/advisory_services/ImportExportCons">insurance</a> in addition to investments.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

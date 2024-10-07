@@ -80,6 +80,7 @@ const BusReg = () => {
             <img
               src="/images/Comprehensive Guide to Business Registration in India.png"
               alt="Business Registration Guide"
+              className={styles.img}
             />
           </div>
           <h3>Private Limited Company (PLC)</h3>

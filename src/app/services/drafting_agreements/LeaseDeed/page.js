@@ -447,30 +447,30 @@ const LeaseDeed = () => {
             <h2>FAQs for Lease Deeds</h2>
 
             <h3> 1. What is a lease deed?</h3>
-            <span>
+            <p>
               A lease deed is a legal agreement that allows a tenant to use
               property owned by a landlord for a specific period in exchange for
               rent. It outlines the rights and obligations of both parties.
-            </span>
+            </p>
             <h3>
               .2. What is the difference between a lease deed and a rental
               agreement?
             </h3>
-            <span>
+            <p>
               A lease deed is typically for a longer duration (e.g., 1 year or
               more) and offers more stability, whereas a rental agreement is
               usually for a shorter period (e.g., monthly) and can be renewed
               more frequently.
-            </span>
+            </p>
 
             <h3>3. What key elements should be included in a lease deed?</h3>
-            <span>
+            <p>
               A lease deed should include: Details of the landlord and tenant,
               Description of the property, Lease term (duration), Rent amount
               and payment schedule, Security deposit details, Maintenance
               responsibilities, Termination and renewal clauses, Signatures of
               both parties,
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

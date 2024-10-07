@@ -371,37 +371,31 @@ const AOA = () => {
             </div>
             <h2>FAQs: Article of Association (AOA)</h2>
             <h3>1. What is an Article of Association (AOA)?</h3>
-            <span>
               <p>
                 The Article of Association (AOA) is a legal document that
                 outlines the rules, regulations, and internal management of a
                 company. It specifies the responsibilities of directors, the
                 rights of shareholders, and how the company will be governed.
               </p>
-            </span>
 
             <h3>2. What is the purpose of the AOA?</h3>
-            <span>
               <p>
                 The <a href="https://www.cadhirajostwal.com/services/appLiti/AOA">AOA</a> serves as a guide for the day-to-day operations of the
                 company, providing a framework for decision-making, defining the
                 company's structure, and protecting the rights of both
                 shareholders and management.
               </p>
-            </span>
 
             <h3>
               3. How is the AOA different from the Memorandum of Association
               (MOA)?
             </h3>
-            <span>
               <p>
                 The <a href="https://www.cadhirajostwal.com/services/appLiti/MOA">MOA</a> defines the company’s relationship with the outside
                 world, such as its objectives and powers, while the AOA governs
                 the internal management and operational framework of the
                 company.
               </p>
-            </span>
           </div>
           <ModalComponent />
         </div>

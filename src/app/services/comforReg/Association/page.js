@@ -114,7 +114,7 @@ const Association = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/Society Registration.png" alt="Society and Association Guide" />
+              <img src="/images/Society Registration.png" alt="Society and Association Guide" className={styles.img} />
             </div>
             <h3>Legal Framework for Associations in India</h3>
             <p>
@@ -528,26 +528,26 @@ const Association = () => {
 
             <h2>FAQs</h2>
             <h3>What is the process for society registration in India?</h3>
-            <span>
+            <p>
               The process involves choosing a name, drafting a memorandum,
               preparing rules, filing documents, and paying registration fees.
-            </span>
+            </p>
 
             <h3>What are the tax benefits for association members?</h3>
-            <span>
+            <p>
               Members may be eligible for tax deductions under Section 80C and
               tax exemptions on housing loan interest, depending on the
               association's status.
-            </span>
+            </p>
 
             <h3>
               How can associations leverage technology for better management?
             </h3>
-            <span>
+            <p>
               Associations can use management software, data analytics, and
               virtual event platforms to enhance operations and member
               engagement.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

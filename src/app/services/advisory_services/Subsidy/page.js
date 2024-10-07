@@ -502,15 +502,15 @@ const Subsidy = () => {
 
             <h2>FAQs: Understanding Subsidies and Loans</h2>
             <h3>1. What is a subsidy?</h3>
-            <span>
+            <p>
               A subsidy is a financial aid or support extended by the government
               or a public body to help reduce the cost of products or services.
               It is often provided to encourage economic activities, support
               industries, or assist individuals in need.
-            </span>
+            </p>
 
             <h3>2. What are the different types of subsidies?</h3>
-            <span>
+            <p>
               Direct Subsidies: Cash payments or grants directly provided to
               individuals or businesses (e.g., agricultural subsidies). Indirect
               Subsidies: Assistance provided in the form of lower taxes, reduced
@@ -519,15 +519,15 @@ const Subsidy = () => {
               businesses to produce more goods or services. Consumption
               Subsidies: Aid provided to make certain essential goods or
               services affordable for consumers.
-            </span>
+            </p>
             <h3>3. Who qualifies for government subsidies?</h3>
-            <span>
+            <p>
               Eligibility criteria for subsidies vary depending on the specific
               program. They are usually based on factors like income level,
               industry type, economic need, or geographic location. For example,
               farmers, low-income households, and renewable energy projects
               often qualify for subsidies.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

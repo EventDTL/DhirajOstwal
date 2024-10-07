@@ -114,7 +114,7 @@ const Litigations = () => {
               addressing grievances and enforcing rights
             </p>
             <div className={styles.imageContainer}>
-              <img src="/images/Litigation Unveiled A Comprehensive Guide to Legal Disputes.png" alt="Income Tax Guide" />
+              <img src="/images/Litigation Unveiled A Comprehensive Guide to Legal Disputes.png" alt="Income Tax Guide" className={styles.img} />
             </div>
             <h2>The Litigation Process: From Filing to Resolution</h2>
             <p>
@@ -557,115 +557,115 @@ const Litigations = () => {
             </p>
             <h2>FAQs</h2>
             <h3>What is litigation?</h3>
-            <span>
+            <p>
               Litigation refers to the process of taking legal action through
               the court system to resolve disputes. It involves formal legal
               proceedings where parties seek to enforce or defend their rights.
-            </span>
+            </p>
             <h3>What are the key stages of the litigation process?</h3>
-            <span>
+            <p>
               The key stages of litigation include pre-litigation steps, filing
               a lawsuit, the discovery phase, and trial and judgment.
-            </span>
+            </p>
             <h3>Who are the main participants in a litigation case?</h3>
-            <span>
+            <p>
               The main participants are the litigants (plaintiff and defendant),
               litigation lawyers, and judges or court officials.
-            </span>
+            </p>
             <h3>What types of litigation exist?</h3>
-            <span>
+            <p>
               Litigation can be classified into several types, including civil
               litigation, criminal litigation, and administrative litigation.
-            </span>
+            </p>
             <h3>
               How do litigation management systems benefit legal processes?
             </h3>
-            <span>
+            <p>
               Litigation management systems streamline legal processes by
               improving case organization, enhancing collaboration among legal
               teams, and managing documents more efficiently.
-            </span>
+            </p>
             <h3>
               What is the role of the Legal Services Authority in litigation?
             </h3>
-            <span>
+            <p>
               The Legal Services Authority ensures access to justice by
               providing free legal aid and conducting legal awareness programs,
               particularly for underprivileged sections of society.
-            </span>
+            </p>
             <h3>What are limitation periods in litigation?</h3>
-            <span>
+            <p>
               Limitation periods refer to the time limits within which legal
               actions must be initiated, as set by the Limitation Act. Section 5
               of the act allows for exceptions and extensions under certain
               circumstances.
-            </span>
+            </p>
             <h3>
               What strategies can be used to prevent litigation for businesses?
             </h3>
-            <span>
+            <p>
               Businesses can prevent litigation by conducting thorough risk
               assessments, implementing robust risk management strategies, and
               ensuring contracts are well-drafted and comprehensive.
-            </span>
+            </p>
             <h3>What are the financial implications of litigation?</h3>
-            <span>
+            <p>
               Litigation can be costly, involving court fees, attorney fees, and
               potential financial risks depending on the outcome of the case.
-            </span>
+            </p>
             <h3>How does technology influence litigation?</h3>
-            <span>
+            <p>
               Technology has revolutionized litigation through e-discovery
               tools, virtual courtrooms, and the use of AI in legal research and
               case outcome predictions.
-            </span>
+            </p>
             <h3>What is class action litigation?</h3>
-            <span>
+            <p>
               Class action litigation allows a group of individuals with similar
               grievances to sue as a collective, often seen in consumer rights,
               employment disputes, and environmental cases.
-            </span>
+            </p>
             <h3>How can social media impact litigation?</h3>
-            <span>
+            <p>
               Social media can influence litigation through evidence collection,
               jury selection, and case publicity. Lawyers must also navigate
               ethical considerations related to social media use.
-            </span>
+            </p>
             <h3>What is litigation funding?</h3>
-            <span>
+            <p>
               Litigation funding involves a third party providing financial
               support to a litigant in exchange for a portion of any eventual
               settlement or award, helping to mitigate financial risks.
-            </span>
+            </p>
             <h3>What are the challenges of international litigation?</h3>
-            <span>
+            <p>
               International litigation presents challenges like jurisdictional
               issues and enforcing foreign judgments across national borders.
-            </span>
+            </p>
             <h3>What is the importance of precedent in litigation?</h3>
-            <span>
+            <p>
               Precedent refers to previous court decisions that guide the
               rulings of future cases involving similar issues. It's crucial for
               maintaining consistency in the legal system.
-            </span>
+            </p>
             <h3>What is the role of expert witnesses in litigation?</h3>
-            <span>
+            <p>
               Expert witnesses provide specialized knowledge in court to help
               judges and juries understand complex issues, such as those in
               medical malpractice or patent disputes.
-            </span>
+            </p>
             <h3>What are the ethical considerations in litigation?</h3>
-            <span>
+            <p>
               Ethical considerations in litigation include adhering to
               professional codes of conduct, managing conflicts of interest, and
               maintaining client confidentiality.
-            </span>
+            </p>
             <h3>What is environmental litigation?</h3>
-            <span>
+            <p>
               Environmental litigation involves legal cases related to climate
               change, pollution, and biodiversity loss, often addressing
               regulatory compliance and conservation efforts.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

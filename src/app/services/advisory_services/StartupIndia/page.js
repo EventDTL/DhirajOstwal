@@ -406,34 +406,34 @@ const StratupIndia = () => {
 
             <h2>FAQs: Startup India</h2>
             <h3>1. What is Startup India?</h3>
-            <span>
+            <p>
               Startup India is a government initiative launched in January 2016
               to promote innovation and entrepreneurship by creating a favorable
               ecosystem for startups in India. It offers various benefits,
               including financial support, regulatory assistance, and mentoring
               to foster the growth of new businesses.
-            </span>
+            </p>
 
             <h3>2. What are the objectives of Startup India?</h3>
-            <span>
+            <p>
               The main objectives of Startup India are: Simplification of
               procedures for starting a business, Financial support through
               various government schemes and funds, Fostering innovation and
               entrepreneurship, Building a strong ecosystem to encourage growth,
               job creation, and wealth generation,
-            </span>
+            </p>
             <h3>
               3. What is the definition of a startup under the Startup India
               initiative?
             </h3>
-            <span>
+            <p>
               To qualify as a startup under Startup India: The entity should be
               less than 10 years old, It should be incorporated as a private
               limited company, partnership firm, or LLP, The entity’s turnover
               should not exceed INR 100 crores in any financial year, The
               startup must work towards innovation, development, or improvement
               of products or services.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

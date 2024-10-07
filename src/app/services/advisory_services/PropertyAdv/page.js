@@ -722,29 +722,29 @@ const PropertyAdv = () => {
             </p>
             <h2> FAQs for Navigating Property Matters</h2>
             <h3> What is property ownership?</h3>
-            <span>
+            <p>
               Property ownership refers to the legal right to possess, use, and
               control a piece of land or property. This can be in the form of
               freehold or leasehold ownership, depending on the type of
               property.
-            </span>
+            </p>
 
             <h3>
               2. What is the difference between freehold and leasehold property?
             </h3>
-            <span>
+            <p>
               Freehold property: The owner has complete ownership of both the
               building and the land on which it stands, with no time limits.
               Leasehold property: The buyer owns the property for a set period
               (e.g., 99 years) but does not own the land. Ownership of the land
               remains with the freeholder
-            </span>
+            </p>
             <h3>3. What documents are required to prove property ownership?</h3>
-            <span>
+            <p>
               Key documents include: Sale deed, Property tax receipts,
               Encumbrance certificate, Title deed, Mutation certificate,
               Occupancy certificate (for newly constructed properties).
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

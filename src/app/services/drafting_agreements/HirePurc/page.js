@@ -362,28 +362,28 @@ const HirePurc = () => {
 
             <h2> FAQs for Hire Purchase Agreements </h2>
             <h3>1. What is a Hire Purchase Agreement?</h3>
-            <span>
+            <p>
               A Hire Purchase Agreement is a contract where a buyer agrees to
               pay for goods in parts or a percentage over time. The buyer gains
               possession of the item immediately but does not own it until all
               payments have been made.
-            </span>
+            </p>
 
             <h3>2. How does Hire Purchase differ from a loan?</h3>
-            <span>
+            <p>
               In a <a href="https://www.cadhirajostwal.com/services/advisory_services/Loan&Funding">loan</a>, the buyer owns the asset from the start and repays the
               loan with interest. In a hire purchase, ownership is transferred
               to the buyer only after all agreed-upon payments are made.
-            </span>
+            </p>
 
             <h3>
               3. What types of goods can be purchased through Hire Purchase?
             </h3>
-            <span>
+            <p>
               Hire Purchase is commonly used for purchasing cars, machinery,
               electronic appliances, and furniture. It can be used for any
               high-cost items.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

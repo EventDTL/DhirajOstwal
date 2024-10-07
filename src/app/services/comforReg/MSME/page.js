@@ -182,7 +182,7 @@ const MSME = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/MSME Micro, Small, and Medium Enterprises in India.png" alt="MSME Guide" />
+              <img src="/images/MSME Micro, Small, and Medium Enterprises in India.png" alt="MSME Guide" className={styles.img} />
             </div>
 
             <h2>2. Udyam Registration: The New MSME Registration Process</h2>
@@ -428,37 +428,37 @@ const MSME = () => {
             <h2>FAQs</h2>
 
             <h3>What is the full form of MSME?</h3>
-            <span>
+            <p>
               MSME stands for Micro, Small, and Medium Enterprises. It refers to
               businesses categorized based on their investment and turnover
               limits.
-            </span>
+            </p>
 
             <h3>What are the fees for MSME registration?</h3>
-            <span>
+            <p>
               The registration process for MSME is free of cost. There are no
               registration fees involved.
-            </span>
+            </p>
 
             <h3>What is the MSME toll-free number?</h3>
-            <span>
+            <p>
               The toll-free number for MSME inquiries is 1800-11-1955.
-            </span>
+            </p>
 
             <h3>How can I contact the MSME helpline?</h3>
-            <span>
+            <p>
               You can reach the MSME helpline at 011-23062107 for support and
               information.
-            </span>
+            </p>
 
             <h3>What serves as an MSME license?</h3>
-            <span>
+            <p>
               The Udyam Registration certificate serves as the MSME license,
               validating the registration of your enterprise.
-            </span>
+            </p>
 
             <h3>Who is the current MSME Minister of India?</h3>
-            <span>As of now, Narayan Rane is the MSME Minister of India.</span>
+            <p>As of now, Narayan Rane is the MSME Minister of India.</p>
           </div>
           <ModalComponent />
         </div>

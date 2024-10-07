@@ -77,7 +77,7 @@ const GST = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/GST.jpg" alt="Goods and Services Guide" />
+              <img src="/images/GST.jpg" alt="Goods and Services Guide" className={styles.img} />
             </div>
 
             <h2>1. Understanding the Basics of GST</h2>

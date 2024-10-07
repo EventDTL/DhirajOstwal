@@ -457,29 +457,25 @@ const MOA = () => {
 
             <h2> FAQs: Memorandum of Association (MOA)</h2>
             <h3>1. What is a Memorandum of Association (MOA)?</h3>
-            <span>
               <p>
                 The Memorandum of Association (MOA) is a legal document required
                 for the formation of a company. It defines the company's
                 relationship with the external world by outlining its
                 objectives, powers, and scope of operation.
               </p>
-            </span>
 
             <h3>2. What is the purpose of the MOA?</h3>
-            <span>
               <p>
                 The purpose of the MOA is to specify the company's purpose, its
                 scope of operations, and the limitations within which the
                 company must function. It serves as the foundation upon which
                 the company is incorporated.
               </p>
-            </span>
 
             <h3>3. What are the key clauses included in the MOA?</h3>
             <div className={styles.unordered1}>
               <ul>
-                <span>
+                <p>
                   <li>Name Clause: Specifies the name of the company.</li>
                   <li>
                     Registered Office Clause: States the location of the
@@ -500,7 +496,7 @@ const MOA = () => {
                     Association Clause: Declares the intention of the
                     subscribers to form a company
                   </li>
-                </span>
+                </p>
               </ul>
             </div>
           </div>

@@ -654,16 +654,16 @@ const BondAdv = () => {
 
             <h2> FAQS for Navigating the World of Bonds: </h2>
             <h3>1. What are bonds?</h3>
-            <span>
+            <p>
               Bonds are debt instruments issued by governments, municipalities,
               or corporations to raise capital. When you purchase a bond, you're
               essentially lending money to the issuer in exchange for regular
               interest payments (coupon) and the return of the principal amount
               at maturity.
-            </span>
+            </p>
 
             <h3>2. What are the different types of bonds?</h3>
-            <span>
+            <p>
               There are several types of bonds, including: Government Bonds:
               Issued by national governments (e.g., Treasury bonds), Corporate
               Bonds: Issued by companies to finance their operations, Municipal
@@ -671,15 +671,15 @@ const BondAdv = () => {
               Bonds: These bonds don’t pay periodic interest but are sold at a
               discount and provide profit upon maturity, Convertible Bonds: Can
               be converted into company stock,
-            </span>
+            </p>
             <h3>3. How do bonds differ from stocks?</h3>
-            <span>
+            <p>
               While stocks represent ownership in a company, bonds are <a href="https://www.cadhirajostwal.com/services/advisory_services/Loan&Funding">loans</a> to
               the issuer. Bondholders are creditors, whereas shareholders are
               owners. Bonds typically offer fixed returns in the form of
               interest, whereas stock returns come from price appreciation and
               dividends.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

@@ -98,6 +98,7 @@ const TaxAudit = () => {
               <img
                 src="/images/Tax Audit A Comprehensive Guide to Requirements, Processes, and Reporting.png"
                 alt="Tax Audit Guide"
+                className={styles.img}
               />
             </div>
 
@@ -318,24 +319,24 @@ const TaxAudit = () => {
 
             <h2>FAQs</h2>
             <h3>What is the current tax audit turnover limit?</h3>
-            <span>
+            <p>
               As of the latest regulations, the tax audit turnover limit is ₹1
               crore (or ₹10 crores if cash transactions are less than 5% of
               total transactions).
-            </span>
+            </p>
 
             <h3>How often are tax audit due dates extended?</h3>
-            <span>
+            <p>
               Extensions are not regular occurrences but may happen due to
               exceptional circumstances. It's important to follow official
               announcements for the most up-to-date information.
-            </span>
+            </p>
 
             <h3>Can tax audits help in tax planning?</h3>
-            <span>
+            <p>
               Yes, tax audits can reveal areas for potential tax savings and
               help in developing more effective tax planning strategies.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

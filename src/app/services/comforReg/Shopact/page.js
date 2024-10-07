@@ -72,7 +72,7 @@ const Shopact = () => {
               walk you through everything you need to know about Shop Act
               registration in India, with a special focus on Maharashtra.
               <div className={styles.imageContainer}>
-                <img src="/images/Shop Act Registration in India A Comprehensive Guide.png" alt="Shop Act Guide" />
+                <img src="/images/Shop Act Registration in India A Comprehensive Guide.png" alt="Shop Act Guide" className={styles.img} />
               </div>
             </p>
             <h3>What is the Shop Act?</h3>
@@ -343,32 +343,32 @@ const Shopact = () => {
             </div>
 
             <h2>FAQs</h2>
-            <span>
+            <p>
               <h3>What is Shop Act Registration?</h3>
               Shop Act Registration is a legal requirement for businesses
               operating in commercial establishments. It ensures compliance with
               local labor laws and regulations concerning working conditions,
               health, and safety.
-            </span>
-            <span>
+            </p>
+            <p>
               <h3>Who needs to obtain Shop Act Registration?</h3>
               Businesses such as retail and wholesale shops, restaurants,
               hotels, theaters, offices, and other commercial establishments
               need to obtain Shop Act Registration.
-            </span>
-            <span>
+            </p>
+            <p>
               <h3>What documents are required for Shop Act Registration?</h3>
               Required documents include proof of business ownership or rent
               agreement, PAN card of the business owner, address proof, ID
               proof, employee details (if applicable), and NOC from the property
               owner (for rented premises).
-            </span>
-            <span>
+            </p>
+            <p>
               <h3>How often do I need to renew the Shop Act Registration?</h3>
               Renewal is required annually for establishments with less than 10
               employees and every three years for establishments with 10 or more
               employees.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

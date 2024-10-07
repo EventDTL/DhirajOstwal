@@ -402,19 +402,19 @@ const ImportExport = () => {
 
             <h2>FAQs: Navigating the World of Import-Export</h2>
             <h3>1. What is import-export?</h3>
-            <span>
+            <p>
               Import-export refers to the process of buying goods or services
               from foreign countries (importing) or selling goods or services to
               foreign markets (exporting). It is a key part of international
               trade, enabling countries to acquire products they don’t produce
               domestically and sell excess products to other nations.
-            </span>
+            </p>
 
             <h3>
               2. What are the basic steps to start an import-export business in
               India?
             </h3>
-            <span>
+            <p>
               To start an import-export business, you must: Register your
               business as a legal entity (e.g., sole proprietorship,
                 <a href="https://www.cadhirajostwal.com/services/drafting_agreements/PartDeed">partnership</a>, private limited company), Obtain an Importer Exporter
@@ -423,18 +423,18 @@ const ImportExport = () => {
               Identify your market and product for import or export, Partner
               with logistics providers to handle shipping and freight, Ensure
               compliance with local and international laws.
-            </span>
+            </p>
             <h3>
               3. What is the Importer Exporter Code (IEC), and why is it
               necessary?
             </h3>
-            <span>
+            <p>
               The Importer Exporter Code (IEC) is a unique 10-digit code issued
               by the DGFT to businesses and individuals involved in
               import-export activities. It is mandatory for conducting any
               import or export transactions in India, and without it, customs
               authorities will not allow the shipment to pass.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

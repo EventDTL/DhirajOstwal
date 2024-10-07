@@ -108,6 +108,7 @@ const Statutory = () => {
               <img
                 src="/images/Financial statements.png"
                 alt="Statutory Audit Guide"
+                className={styles.img}
               />
             </div>
 
@@ -427,22 +428,22 @@ const Statutory = () => {
             <h2>FAQs</h2>
 
             <h3>What is the main purpose of a statutory audit?</h3>
-            <span>
+            <p>
               To provide an independent opinion on the accuracy and fairness of
               a company's financial statements.
-            </span>
+            </p>
 
             <h3>How often are statutory audits required?</h3>
-            <span>
+            <p>
               Typically annually, but requirements may vary based on company
               size and jurisdiction.
-            </span>
+            </p>
 
             <h3>Can a company choose its statutory auditor?</h3>
-            <span>
+            <p>
               While companies can recommend auditors, the appointment is usually
               approved by shareholders to ensure independence.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

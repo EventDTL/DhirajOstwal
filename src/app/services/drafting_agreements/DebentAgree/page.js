@@ -446,7 +446,6 @@ const DebentureAgree = () => {
 
             <h2>FAQs on Debentures and Debt Financing</h2>
             <h3>1. What is a debenture?</h3>
-            <span>
               <p>
                 A debenture is a type of long-term debt instrument issued by a
                 company to raise capital. It is essentially a <a href="https://www.cadhirajostwal.com/services/advisory_services/Loan&Funding">loan</a> that the
@@ -454,10 +453,8 @@ const DebentureAgree = () => {
                 Debentures are typically unsecured, meaning they are not backed
                 by any collateral.
               </p>
-            </span>
 
             <h3>2. How does a debenture differ from a bond?</h3>
-            <span>
               <p>
                 While both debentures and bonds are debt instruments, the key
                 difference is that <a href="https://www.cadhirajostwal.com/services/advisory_services/BondAdv">bonds</a> are usually secured by specific assets,
@@ -465,17 +462,16 @@ const DebentureAgree = () => {
                 have a claim on the company’s assets if it defaults, whereas
                 debenture holders do not.
               </p>
-            </span>
 
             <h3>3. What are the types of debentures?</h3>
-            <span>
+            <p>
               Debentures can be classified into various types, such as:
               Convertible Debentures: Can be converted into equity shares of the
               company after a specified period. Non-Convertible Debentures
               (NCDs): Cannot be converted into equity and typically offer higher
               interest rates. Secured Debentures: Backed by assets of the
               company. Unsecured Debentures: Not backed by any collateral.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

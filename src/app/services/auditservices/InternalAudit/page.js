@@ -78,6 +78,7 @@ const InternalAudit = () => {
               <img
                 src="/images/Internal Audit Guide to Processes, Reporting, and Best Practices.png"
                 alt="Internal Audit Guide"
+                className={styles.img}
               />
             </div>
 
@@ -583,25 +584,25 @@ const InternalAudit = () => {
             <h2>FAQs</h2>
 
             <h3>What's the difference between internal and external audit?</h3>
-            <span>
+            <p>
               Internal audit is an ongoing function within an organization,
               while external audit is performed periodically by independent
               third parties.
-            </span>
+            </p>
 
             <h3>How often should internal audits be conducted?</h3>
-            <span>
+            <p>
               The frequency depends on the risk profile of the area being
               audited, but most organizations conduct audits on an annual or
               continuous basis.
-            </span>
+            </p>
 
             <h3>Can internal audit guarantee that no fraud will occur?</h3>
-            <span>
+            <p>
               While internal audit can help prevent and detect fraud, it cannot
               provide absolute assurance against all potential fraudulent
               activities.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

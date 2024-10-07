@@ -90,7 +90,7 @@ const LLP = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/Litigation Unveiled A Comprehensive Guide to Legal Disputes.png" alt="LLP Guide" />
+              <img src="/images/Litigation Unveiled A Comprehensive Guide to Legal Disputes.png" alt="LLP Guide" className={styles.img} />
             </div>
 
             <h2>Introduction to LLPs</h2>
@@ -385,36 +385,36 @@ const LLP = () => {
             </div>
             <h2>FAQs</h2>
             <h3>What is a Limited Liability Partnership (LLP)?</h3>
-            <span>
+            <p>
               A Limited Liability Partnership (LLP) is a business structure that
               combines the advantages of both a partnership and a company. It
               provides limited liability protection to its partners, meaning
               their personal assets are generally not at risk for the business's
               debts.
-            </span>
+            </p>
 
             <h3>How is an LLP different from a traditional partnership?</h3>
-            <span>
+            <p>
               In a traditional partnership, partners have unlimited liability,
               meaning their personal assets can be used to cover business debts.
               In an LLP, the liability of each partner is limited to their
               capital contribution, offering better protection.
-            </span>
+            </p>
 
             <h3>What are the key benefits of forming an LLP?</h3>
-            <span>
+            <p>
               Some key benefits of forming an LLP include limited liability
               protection, flexibility in management, ease of transferring
               ownership, and lower compliance requirements compared to a
               traditional company.
-            </span>
+            </p>
 
             <h3>Is it mandatory to register an LLP in India?</h3>
-            <span>
+            <p>
               Yes, it is mandatory to register an LLP in India under the LLP
               Act, 2008. Registration provides legal recognition to the LLP and
               allows it to operate as a separate legal entity.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

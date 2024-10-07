@@ -538,16 +538,16 @@ const LifeGeneral = () => {
 
             <h2>FAQs: Understanding Insurance</h2>
             <h3>1. What is insurance?</h3>
-            <span>
+            <p>
               Insurance is a financial arrangement in which an individual or
               entity pays a premium to an insurance company in exchange for
               protection against potential future financial losses. The insurer
               compensates the insured for covered losses or damages according to
               the terms of the policy.
-            </span>
+            </p>
 
             <h3>2. What are the different types of insurance?</h3>
-            <span>
+            <p>
               <div className={styles.unordered1}>
                 <ul>
                   <li>
@@ -577,15 +577,15 @@ const LifeGeneral = () => {
                   </li>
                 </ul>
               </div>
-            </span>
+            </p>
             <h3>3. How does insurance work?</h3>
-            <span>
+            <p>
               Insurance operates on the principle of risk-sharing. Policyholders
               pay a premium to the insurance company, which pools these premiums
               to pay for covered claims. In the event of a covered loss or
               damage, the insurance company compensates the policyholder
               according to the terms outlined in the policy.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

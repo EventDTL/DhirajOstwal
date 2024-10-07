@@ -518,25 +518,25 @@ const FixedDepo = () => {
 
             <h2>Fixed Deposit (FD) FAQs</h2>
             <h3>1. What is a Fixed Deposit (FD)?</h3>
-            <span>
+            <p>
               A Fixed Deposit (FD) is a financial instrument provided by banks
               and non-banking financial companies (NBFCs) where you deposit a
               lump sum for a fixed tenure at a predetermined interest rate. It
               offers a higher rate of interest compared to savings accounts.
-            </span>
+            </p>
 
             <h3>2. How do I open an FD account?</h3>
-            <span>
+            <p>
               You can open an FD account by visiting your bank's branch, through
               internet banking, or using mobile banking apps. You'll need to
               provide identification and address proof documents.
-            </span>
+            </p>
 
             <h3>3. What is the minimum amount required to open an FD?</h3>
-            <span>
+            <p>
               The minimum deposit amount varies between banks, but generally,
               you can start an FD with as little as ₹1,000.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

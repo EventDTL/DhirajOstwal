@@ -503,21 +503,20 @@ const PartDeed = () => {
             </p>
             <h2>Frequently Asked Questions (FAQs) on Partnership Deed</h2>
             <h3>1. What is a Partnership Deed?</h3>
-            <span>
+            <p>
               A Partnership Deed is a legal document that outlines the rights,
               responsibilities, and duties of partners in a partnership
               business. It governs the partnership's operations and the
               relationship between the partners.
-            </span>
+            </p>
             <h3>2. Is it mandatory to have a Partnership Deed?</h3>
-            <span>
+            <p>
               While a Partnership Deed is not legally mandatory in some
               jurisdictions, it is highly recommended to avoid disputes and
               misunderstandings among partners by clearly defining each
               partner's role and stake in the business
-            </span>
+            </p>
             .<h3>3. What are the key elements of a Partnership Deed?</h3>
-            <span>
               <p>A Partnership Deed typically includes:</p>
               <div className={styles.unordered1}>
                 <ul>
@@ -531,7 +530,6 @@ const PartDeed = () => {
                   <li>Dispute resolution mechanism</li>
                 </ul>
               </div>
-            </span>
           </div>
           <ModalComponent />
         </div>

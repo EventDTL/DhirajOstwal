@@ -486,24 +486,24 @@ const ShareDeed = () => {
 
             <h2>FAQs: Shareholders Agreement</h2>
             <h3>1. What is a Shareholders Agreement?</h3>
-            <span>
+            <p>
               A Shareholders Agreement is a legal contract between a company’s
               shareholders that outlines their rights, responsibilities, and
               obligations. It provides guidelines on how the company will be
               managed and how important decisions will be made.
-            </span>
+            </p>
 
             <h3>2. Why is a Shareholders Agreement necessary?</h3>
-            <span>
+            <p>
               A Shareholders Agreement helps prevent disputes by clearly
               defining the roles and expectations of each shareholder. It
               protects both majority and minority shareholders and provides a
               framework for resolving disagreements.
-            </span>
+            </p>
 
             <h3>3. What is included in a Shareholders Agreement?</h3>
 
-            <span>
+            <p>
               A Shareholders Agreement typically includes:
               <div className={styles.unordered1}>
                 <ul>
@@ -516,7 +516,7 @@ const ShareDeed = () => {
                   <li>Exit strategies for shareholders</li>
                 </ul>
               </div>
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

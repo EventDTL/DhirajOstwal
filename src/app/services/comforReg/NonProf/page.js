@@ -90,7 +90,7 @@ const NonProf = () => {
           </p>
 
           <div className={styles.imageContainer}>
-        <img src="/images/istockphoto-486772894-612x612.jpg" alt="NPO Guide" />
+        <img src="/images/istockphoto-486772894-612x612.jpg" alt="NPO Guide" className={styles.img} />
           </div>
           <h2>Introduction to Non-Profit Organizations</h2>
           <p>
@@ -359,19 +359,19 @@ const NonProf = () => {
 
           <h2>FAQs</h2>
           <h3>What are the NGO registration fees in India?</h3>
-<span>NGO registration fees (एनजीओ रजिस्ट्रेशन फीस) vary depending on the structure and state. For societies, it can range from ₹500 to ₹5000, while for Section 8 companies, it can be higher.</span>
+<p>NGO registration fees (एनजीओ रजिस्ट्रेशन फीस) vary depending on the structure and state. For societies, it can range from ₹500 to ₹5000, while for Section 8 companies, it can be higher.</p>
 
 <h3>Can foreign nationals set up NPOs in India?</h3>
-<span>Yes, but they must comply with FCRA regulations and may face additional scrutiny.</span>
+<p>Yes, but they must comply with FCRA regulations and may face additional scrutiny.</p>
 
 <h3>Are all NPOs tax-exempt?</h3>
-<span>Not automatically. NPOs must apply for tax exemption under relevant sections of the Income Tax Act.</span>
+<p>Not automatically. NPOs must apply for tax exemption under relevant sections of the Income Tax Act.</p>
 
 <h3>How often do NPOs need to file returns?</h3>
-<span>Most NPOs must file annual returns with their registering authority and the Income Tax Department.</span>
+<p>Most NPOs must file annual returns with their registering authority and the Income Tax Department.</p>
 
 <h3>Can NPOs engage in commercial activities?</h3>
-<span>Limited commercial activities are allowed if they align with the NPO's objectives and profits are used for the organization's purposes.</span>
+<p>Limited commercial activities are allowed if they align with the NPO's objectives and profits are used for the organization's purposes.</p>
 
         </div>
         <ModalComponent />

@@ -330,37 +330,37 @@ const CoperativeTrust = () => {
 
             <p>Q: How do I start a cooperative society in India?</p>
             <p>
-              <span>
+              
                 A: Begin by gathering like-minded individuals, deciding on the
                 type of cooperative, drafting bye-laws, and applying for
                 registration with your state's cooperative department.
-              </span>
+              
             </p>
             <p>Q: What are the main types of cooperative societies in India?</p>
             <p>
-              <span>
+              
                 A: The main types include consumer cooperatives, producer
                 cooperatives, credit cooperatives, housing cooperatives, and
                 agricultural cooperatives.
-              </span>
+              
             </p>
 
             <p>Q: What is the role of a cooperative inspector?</p>
             <p>
-              <span>
+              
                 A: A cooperative inspector ensures that cooperatives comply with
                 regulations, conducts audits, and investigates any
                 irregularities in cooperative operations.
-              </span>
+              
             </p>
             <p>Q: How does cooperative federalism work in India?</p>
             <p>
-              <span>
+              
                 A: Cooperative federalism in India involves collaboration
                 between the central and state governments in policy-making and
                 implementation, ensuring a balance of power and effective
                 governance.
-              </span>
+              
             </p>
           </div>
           <ModalComponent />

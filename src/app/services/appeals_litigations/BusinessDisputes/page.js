@@ -58,7 +58,7 @@ const BusinessDisputes = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/Business Disputes.png" alt="Business Disputes Guide" />
+              <img src="/images/Business Disputes.png" alt="Business Disputes Guide" className={styles.img} />
             </div>
 
             <h2>Legal Help Services: Your First Line of Defense</h2>
@@ -582,7 +582,7 @@ const BusinessDisputes = () => {
             <h2>FAQs</h2>
 
             <h3>1. What are common types of business disputes?</h3>
-            <span>
+            <p>
               Common types of business disputes include contract disputes,
               intellectual property issues, and employment-related
               disagreements. Contract disputes arise from breaches or
@@ -590,47 +590,47 @@ const BusinessDisputes = () => {
               involve conflicts over patents, trademarks, or copyrights, while
               employment-related disputes concern issues such as terms of
               employment or discrimination claims.
-            </span>
+            </p>
 
             <h3>2. When should I seek legal help for a business dispute?</h3>
-            <span>
+            <p>
               It’s advisable to seek legal help as soon as you recognize a
               potential legal issue. Early consultation with a business lawyer
               can help in understanding your rights and obligations, and can
               potentially prevent the dispute from escalating further.
-            </span>
+            </p>
 
             <h3>
               3. What are free online legal help resources, and how useful are
               they?
             </h3>
-            <span>
+            <p>
               Free online legal help resources, such as LegalZoom and Nolo,
               provide general legal information and templates. They are useful
               for getting initial guidance and understanding basic legal
               concepts, but they cannot replace personalized legal advice for
               complex disputes.
-            </span>
+            </p>
 
             <h3>4. How do legal help clinics assist small businesses?</h3>
-            <span>
+            <p>
               Legal help clinics, often run by law schools or non-profits, offer
               affordable or free legal assistance to small businesses. They can
               provide guidance on various legal issues, and are valuable for
               businesses with limited resources.
-            </span>
+            </p>
 
             <h3>
               5. What is the Trade Disputes Act 1929, and why is it still
               relevant?
             </h3>
-            <span>
+            <p>
               The Trade Disputes Act 1929 was historical legislation that
               influenced labor laws and dispute resolution mechanisms. Its
               principles, including protections for trade unions and regulations
               for strikes, still impact modern labor dispute resolution
               practices.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

@@ -81,7 +81,7 @@ const CompF = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/Company-Formation.jpg" alt="Company Formation Guide" />
+              <img src="/images/Company-Formation.jpg" alt="Company Formation Guide" className={styles.img} />
             </div>
 
             <h2>
@@ -173,7 +173,7 @@ const CompF = () => {
               specific ISO standards.
             </p>
             <h2>
-              <span>The Registration Process:</span> Step-by-Step Guide to
+              <p>The Registration Process:</p> Step-by-Step Guide to
               Company Registration
             </h2>
 
@@ -298,79 +298,79 @@ const CompF = () => {
             <h3>
               What are the different types of company structures in India?
             </h3>
-            <span>
+            <p>
               In India, you can choose from several company structures,
               including Private Limited Company (PLC), One Person Company (OPC),
               Limited Liability Partnership (LLP), and more, depending on your
               business needs.
-            </span>
+            </p>
 
             <h3>What is a Private Limited Company (PLC)?</h3>
-            <span>
+            <p>
               A Private Limited Company (PLC) is a popular business structure in
               India, offering limited liability protection, separate legal
               entity status, and easier access to funding. It's ideal for
               startups and SMEs.
-            </span>
+            </p>
 
             <h3>What is a One Person Company (OPC)?</h3>
-            <span>
+            <p>
               A One Person Company (OPC) is a business structure introduced
               under the Companies Act 2013, allowing a single individual to
               enjoy the benefits of a private limited company with simplified
               compliance.
-            </span>
+            </p>
 
             <h3>How can ISO certification benefit my company?</h3>
-            <span>
+            <p>
               ISO certification enhances your company's credibility, improves
               operational efficiency, provides access to global markets, and
               offers a competitive edge in tenders and contracts.
-            </span>
+            </p>
 
             <h3>
               What are the steps involved in company registration in India?
             </h3>
-            <span>
+            <p>
               The company registration process includes selecting a company
               name, checking its availability, filing the SPICe+ form on the MCA
               portal, submitting required documents, and maintaining compliance
               post-registration.
-            </span>
+            </p>
 
             <h3>What documents are required for company registration?</h3>
-            <span>
+            <p>
               Key documents for company registration include the Memorandum of
               Association (<a href="https://www.cadhirajostwal.com/services/drafting_agreements/MOA">MOA</a>), Articles of Association (<a href="https://www.cadhirajostwal.com/services/appLiti/AOA">AOA</a>), proof of
               registered office address, and KYC documents for directors.
-            </span>
+            </p>
 
             <h3>Is appointing a Company Secretary mandatory?</h3>
-            <span>
+            <p>
               Appointing a Company Secretary is not mandatory for all companies,
               but it is beneficial for ensuring compliance, maintaining company
               records, and advising on corporate governance.
-            </span>
+            </p>
 
             <h3>
               What is the role of the Ministry of Corporate Affairs (MCA)
               portal?
             </h3>
-            <span>
+            <p>
               The MCA portal is the primary platform for company registration in
               India, offering services like name availability checks, digital
               incorporation, fee payment, and document submission.
-            </span>
+            </p>
 
             <h3>
               Should I seek professional assistance for company registration?
             </h3>
-            <span>
+            <p>
               Seeking professional assistance from Chartered Accountants,
               Company Secretaries, or legal experts can ensure a smooth,
               error-free registration process and compliance with regulatory
               requirements.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

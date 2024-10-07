@@ -605,27 +605,23 @@ const Drafting = () => {
             <h2> Frequently Asked Questions (FAQs) on Drafting</h2>
             <h3>1. What is Drafting?</h3>
             <p>
-              <span>
                 Drafting refers to the process of preparing legal or business
                 documents, such as contracts, agreements, policies, or any other
                 formal written document, in a clear, precise, and legally
                 binding format.
-              </span>
             </p>
 
             <h3>2. Why is Drafting Important?</h3>
             <p>
-              <span>
                 Drafting ensures that the intentions of the parties involved are
                 clearly expressed, reducing ambiguity and preventing disputes.
                 Well-drafted documents also provide legal protection and clarity
                 in business transactions.
-              </span>
             </p>
 
             <h3>3. What types of documents are commonly drafted?</h3>
             <div className={styles.unordered1}>
-              <span>
+              <p>
                 <ul>
                   <li>Contracts and agreements</li>
                   <li>Memorandums of Understanding (MoUs)</li>
@@ -634,7 +630,7 @@ const Drafting = () => {
                   <li>Articles of Incorporation</li>
                   <li>Business proposals</li>
                 </ul>
-              </span>
+              </p>
             </div>
           </div>
           <ModalComponent />

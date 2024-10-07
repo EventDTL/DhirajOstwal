@@ -68,7 +68,7 @@ const Appeals = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/Activity Create your own comic strip.png" alt="Appeals" />
+              <img src="/images/Activity Create your own comic strip.png" alt="Appeals" className={styles.img} />
             </div>
 
             <h2>Types of Appeals</h2>
@@ -527,101 +527,101 @@ const Appeals = () => {
             <h2>FAQs</h2>
 
             <h3>1. What is an appeal in legal terms?</h3>
-            <span>
+            <p>
               An appeal is a formal request made to a higher court to review and
               reconsider the decision of a lower court. It is typically based on
               specific legal grounds, such as errors in law or procedural
               irregularities, rather than simply disagreeing with the verdict.
-            </span>
+            </p>
 
             <h3>2. What are the main types of appeals?</h3>
-            <span>The main types of appeals include:</span>
-            <span>
+            <p>The main types of appeals include:</p>
+            <p>
               <span>Civil Appeals:</span> Involving disputes between individuals
               or organizations in non-criminal matters.
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Criminal Appeals:</span> Involving challenges to decisions
               in criminal cases.
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Administrative Appeals:</span> Concerning decisions made by
               government agencies or tribunals.
-            </span>
+            </p>
 
             <h3>3. What is the process for filing an appeal?</h3>
-            <span>
+            <p>
               The appeals process generally involves the following steps:
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Filing the Notice of Appeal:</span> Informing the court and
               parties of the intent to appeal.
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Preparing the Appeals Brief:</span> Outlining the legal
               arguments for the appeal.
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Oral Arguments:</span> Presenting the case before the
               appeals court judges.
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Court Decision:</span> The appeals court issues its ruling,
               which may affirm, reverse, or modify the lower court's decision.
-            </span>
+            </p>
 
             <h3>4. What are the grounds for an appeal?</h3>
             <span>Common grounds for appeal include:</span>
-            <span>
+            <p>
               <span>Errors in law:</span> Misapplication or misinterpretation of
               the law.
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Procedural irregularities:</span> Issues with the legal
               procedures followed.
-            </span>
-            <span>
+            </p>
+            <p>
               <span>Introduction of new evidence:</span> In limited
               circumstances.
-            </span>
+            </p>
 
             <h3>5. Can I represent myself in an appeal?</h3>
-            <span>
+            <p>
               Yes, self-representation is possible in an appeal, but due to the
               complexity of legal procedures, it is often advisable to seek
               professional legal help, especially in intricate cases.
-            </span>
+            </p>
 
             <h3>6. What are the time limits for filing an appeal?</h3>
-            <span>
+            <p>
               Time limits for filing an appeal vary by jurisdiction and case
               type. It is crucial to adhere to these deadlines as missing them
               could result in the dismissal of the appeal.
-            </span>
+            </p>
 
             <h3>7. How much does it cost to file an appeal?</h3>
-            <span>
+            <p>
               The cost of filing an appeal can vary and may include court fees,
               legal representation costs, and potential damages or penalties if
               the appeal is unsuccessful.
-            </span>
+            </p>
 
             <h3>8. What is the role of precedent in an appeal?</h3>
-            <span>
+            <p>
               Precedent refers to previous court decisions that guide the
               resolution of future cases with similar issues. In appeals, higher
               court decisions within the same jurisdiction are typically binding
               on lower courts, whereas decisions from other jurisdictions may be
               persuasive but not binding.
-            </span>
+            </p>
 
             <h3>9. Are there resources for free legal advice on appeals?</h3>
-            <span>
+            <p>
               Yes, there are resources available, such as free legal advice
               helplines, online platforms, and WhatsApp services. However, the
               reliability of such services may vary, and professional legal
               advice is recommended for complex cases.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

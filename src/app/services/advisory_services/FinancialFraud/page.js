@@ -508,15 +508,15 @@ const FinancialFraud = () => {
 
             <h2>FAQs: Financial Fraud Unveiled</h2>
             <h3>1. What is financial fraud?</h3>
-            <span>
+            <p>
               Financial fraud refers to any act of deception involving money or
               assets with the intent to gain financially at the expense of
               others. This can include scams, identity theft, and fraudulent
               financial reporting.
-            </span>
+            </p>
 
             <h3>2. What are the common types of financial fraud?</h3>
-            <span>
+            <p>
               <div className={styles.unordered1}>
                 <ul>
                   <li>
@@ -550,9 +550,9 @@ const FinancialFraud = () => {
                   </li>
                 </ul>
               </div>
-            </span>
+            </p>
             <h3>3. How can I protect myself from financial fraud?</h3>
-            <span>
+            <p>
               Monitor Your Accounts: Regularly check bank and credit card
               statements for suspicious activity. Use Strong Passwords: Create
               complex passwords and enable two-factor authentication (2FA) on
@@ -563,7 +563,7 @@ const FinancialFraud = () => {
               can be vulnerable to hackers. Shred Personal Documents: Properly
               dispose of documents containing sensitive information like bank
               statements or credit card offers.
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>

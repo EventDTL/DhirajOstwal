@@ -73,7 +73,7 @@ const CharTrust = () => {
             </p>
 
             <div className={styles.imageContainer}>
-              <img src="/images/Charity.png" alt="Charitable Trust Guide" />
+              <img src="/images/Charity.png" alt="Charitable Trust Guide" className={styles.img} />
             </div>
 
             <h2>Introduction to Charitable Trusts</h2>
@@ -292,49 +292,49 @@ const CharTrust = () => {
             <h2>FAQs</h2>
 
             <h3>How do I register trust online?</h3>
-            <span>
+            <p>
               Many states now offer online trust registration. Visit your
               state's charity commissioner website for details.
-            </span>
+            </p>
 
             <h3>What is the process for charitable trust registration?</h3>
-            <span>
+            <p>
               The process typically involves preparing documents, submitting an
               application, paying fees, and obtaining a registration
               certificate.
-            </span>
+            </p>
 
             <h3>How can I check my charitable trust registration?</h3>
-            <span>
+            <p>
               You can perform a charitable trust registration check using your
               registration number on the charity commissioner's website.
-            </span>
+            </p>
 
             <h3>What are the tax benefits for charitable trusts?</h3>
-            <span>
+            <p>
               Registered charitable trusts can enjoy <a href="https://www.cadhirajostwal.com/services/tax_services/IncomeTax">income tax</a> exemptions under
               sections 11 and 12 of the Income Tax Act.
-            </span>
+            </p>
 
             <h3>How do I find a charitable trust near me?</h3>
-            <span>
+            <p>
               Search online directories, contact your local charity
               commissioner, or seek recommendations from community leaders.
-            </span>
+            </p>
 
-            <span>
+            <p>
               Charitable trusts are key to addressing social issues in India. By
               understanding the registration and management processes, you can
               create an impactful trust. Stay compliant, leverage technology,
               and focus on your mission.
-            </span>
+            </p>
 
-            <span>
+            <p>
               Whether it's an educational trust or a charitable hospital, this
               guide offers a strong start. Remember Gandhi's words: "The best
               way to find yourself is to lose yourself in the service of
               others."
-            </span>
+            </p>
           </div>
           <ModalComponent />
         </div>
