@@ -5,6 +5,20 @@ import Services from '../Services'
 import styles from '../main.module.css'
 
 
+export const generateMetadata = () => {
+  return {
+    title: "Drafting agreement",
+    description:
+      "We are the best CA firm in pune providing ",
+    keywords: [
+      "Company formation",
+      "Company Registration"
+    ],
+    canonical:
+      "https://www.cadhirajostwal.com/services/drafting_agreements",
+  };
+};
+
 const DraftingAgreements = () => {
 
   return (

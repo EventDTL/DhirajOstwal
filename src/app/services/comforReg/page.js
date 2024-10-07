@@ -4,6 +4,20 @@ import Link from "next/link";
 import Services from "../Services";
 import styles from "../main.module.css";
 
+export const generateMetadata = () => {
+  return {
+    title: "Company formation and Registration",
+    description:
+      "We are the best CA firm in pune providing company formation and registration",
+    keywords: [
+      "Company formation",
+      "Company Registration"
+    ],
+    canonical:
+      "https://www.cadhirajostwal.com/services/comforReg",
+  };
+};
+
 const CompanyFormation = () => {
   return (
     <div>

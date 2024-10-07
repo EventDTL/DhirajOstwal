@@ -4,6 +4,20 @@ import Services from '../Services'
 import styles from '../main.module.css'
 import Link from 'next/link'
 
+export const generateMetadata = () => {
+  return {
+    title: "Audit services",
+    description:
+      "We are the best CA firm in pune providing audit services",
+    keywords: [
+      "Appeals",
+      "Audit services"
+    ],
+    canonical:
+      "https://www.cadhirajostwal.com/services/auditservices",
+  };
+};
+
 const Auditservices = () => {
 
   return (

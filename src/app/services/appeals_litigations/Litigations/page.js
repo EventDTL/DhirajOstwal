@@ -73,7 +73,7 @@ export const generateMetadata = () => {
         "litigation meaning in malayalam",
         "litigation lawyer",
       ],
-      canonical: "https://www.cadhirajostwal.com/services/drafAgree/Litigations",
+      canonical: "https://www.cadhirajostwal.com/services/appeals_litigations/Litigations",
     };
   };
   

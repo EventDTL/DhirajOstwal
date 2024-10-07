@@ -23,7 +23,7 @@ export const generateMetadata = () => {
         "free legal advice on whatsapp",
         "appeals to high court",
       ],
-      canonical: "https://www.cadhirajostwal.com/services/drafAgree/Appeals",
+      canonical: "https://www.cadhirajostwal.com/services/appeals_litigations/Appeals",
     };
   };
   

@@ -4,6 +4,19 @@ import Link from 'next/link'
 import Services from '../Services'
 import styles from '../main.module.css'
 
+export const generateMetadata = () => {
+  return {
+    title: "Appeals and Litigations",
+    description:
+      "We are the best CA firm in pune providing advisory services",
+    keywords: [
+      "Appeals",
+      "litigations"
+    ],
+    canonical:
+      "https://www.cadhirajostwal.com/services/appeals_litigations",
+  };
+};
 
 const Appeals_litigations = () => {
 

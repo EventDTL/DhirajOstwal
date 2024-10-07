@@ -21,7 +21,7 @@ export const generateMetadata = () => {
       "msme dispute resolution",
     ],
     canonical:
-      "https://www.cadhirajostwal.com/services/drafAgree/BusinessDisputes",
+      "https://www.cadhirajostwal.com/services/appeals_litigations/BusinessDisputes",
   };
 };
 

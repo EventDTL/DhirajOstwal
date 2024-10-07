@@ -4,6 +4,21 @@ import Link from 'next/link'
 import Services from '../Services'
 import styles from '../main.module.css'
 
+export const generateMetadata = () => {
+  return {
+    title: "Advisory services",
+    description:
+      "We are the best CA firm in pune providing advisory services",
+    keywords: [
+      "advisory service",
+      "advisory services",
+      "advisory"
+    ],
+    canonical:
+      "https://www.cadhirajostwal.com/services/advisory_services",
+  };
+};
+
 
 const AdvisoryServices = () => {
 
