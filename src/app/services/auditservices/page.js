@@ -1,4 +1,3 @@
-"use client"
 import React from 'react'
 import Services from '../Services'
 import styles from '../main.module.css'

@@ -1,4 +1,3 @@
-"use client"
 import Carousel from "../components/home/Carousel";
 import About from "../components/home/About";
 import Youtube from "../components/home/Youtube";
