@@ -73,7 +73,7 @@ const IncomeTax = () => {
             </p>
 
                 <div className={styles.imageContainer}>
-              <img src="/images/Income Tax Guide for Indian Taxpayers.png" alt="Income Tax Guide" />
+              <img src="/images/Income Tax Guide for Indian Taxpayers.png" alt="Income Tax Guide" className={styles.img} />
             </div>
 
             <h2>Income Tax Explained</h2>

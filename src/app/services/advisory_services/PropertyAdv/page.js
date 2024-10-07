@@ -721,7 +721,9 @@ const PropertyAdv = () => {
               flexible solutions compared to traditional court proceedings.
             </p>
             <h2> FAQs for Navigating Property Matters</h2>
-            <h3> What is property ownership?</h3>
+            <h3>
+            1. What is property ownership?
+            </h3>
             <p>
               Property ownership refers to the legal right to possess, use, and
               control a piece of land or property. This can be in the form of
