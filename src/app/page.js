@@ -36,7 +36,6 @@ export default function Home() {
         <GalleryContainer/>  
         <Award/> 
         <FollowUs/>  
-
     </div>
 
   );

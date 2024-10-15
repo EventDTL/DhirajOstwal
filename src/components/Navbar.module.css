@@ -76,7 +76,9 @@
     color: orangered;
   }
  
- 
+ .menu{
+    width: 100%;
+ }
   
   .MenuIcon{
     display: none;
