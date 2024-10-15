@@ -23,7 +23,6 @@ export const generateMetadata = () => {
   };
 };
 
-
 export default function Home() {
 
   return (
