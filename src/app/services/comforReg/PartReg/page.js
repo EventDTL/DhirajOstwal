@@ -346,7 +346,7 @@ const MSME = () => {
                 </li>
               </ul>
             </div>
-            <h2>FAQs</h2>
+            <h2>FAQ</h2>
             <h3>
               What is the minimum number of partners required to form a
               partnership firm?
