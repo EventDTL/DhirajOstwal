@@ -112,8 +112,7 @@ const BusReg = () => {
           </p>
           <h3>Partnership </h3>
           <p>
-            <a href="https://www.cadhirajostwal.com/services/comforReg/PartReg">Partnership registration</a> in India is governed by the Indian
-            <a href="https://www.cadhirajostwal.com/services/drafting_agreements/PartDeed">partnership</a> Act, 1932. To register a partnership:
+            <a href="https://www.cadhirajostwal.com/services/comforReg/PartReg">Partnership registration</a> in India is governed by the Indian <a href="https://www.cadhirajostwal.com/services/drafting_agreements/PartDeed">partnership</a> Act, 1932. To register a partnership:
           </p>
           <div className={styles.unordered1}>
             <ul>
@@ -198,7 +197,7 @@ const BusReg = () => {
               <li>Identity proof </li>
               <li>Photographs of directors/partners</li>
               <li>Memorandum of <a href="https://www.cadhirajostwal.com/services/comforReg/Association">Association</a> (MOA)</li>
-              <li>Articles of Association (<a href="https://www.cadhirajostwal.com/services/appLiti/AOA">AOA</a>)</li>
+              <li>Articles of Association (<a href="https://www.cadhirajostwal.com/services/drafting_agreements/AOA">AOA</a>)</li>
             </ul>
           </div>
           <h3>Digital Signature Certificate (DSC)</h3>

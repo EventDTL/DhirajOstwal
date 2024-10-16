@@ -341,7 +341,7 @@ const CompF = () => {
             <h3>What documents are required for company registration?</h3>
             <p>
               Key documents for company registration include the Memorandum of
-              Association (<a href="https://www.cadhirajostwal.com/services/drafting_agreements/MOA">MOA</a>), Articles of Association (<a href="https://www.cadhirajostwal.com/services/appLiti/AOA">AOA</a>), proof of
+              Association (<a href="https://www.cadhirajostwal.com/services/drafting_agreements/MOA">MOA</a>), Articles of Association (<a href="https://www.cadhirajostwal.com/services/drafting_agreements/AOA">AOA</a>), proof of
               registered office address, and KYC documents for directors.
             </p>
 

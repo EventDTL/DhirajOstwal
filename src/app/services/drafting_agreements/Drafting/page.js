@@ -32,10 +32,10 @@ const Drafting = () => {
     <>
       <div className={styles.mainContainer}>
         <div className={styles.title}>
-          <h2>
+          <h1>
             The Art and Science of Legal Drafting: From Basics to Advanced
             Techniques
-          </h2>
+          </h1>
         </div>
         <div className={styles.body}>
           <div className={styles.links}>
