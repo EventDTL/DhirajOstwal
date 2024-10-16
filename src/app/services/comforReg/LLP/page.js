@@ -334,7 +334,7 @@ const LLP = () => {
             </p>
 
             <h2>Post-Registration Compliance</h2>
-            <h3>HR <a href="https://www.cadhirajostwal.com/services/auditservices/Statutory">statutory</a> Compliances</h3>
+            <h3>HR statutory Compliances</h3>
             <p>LLPs must comply with various labor laws, including:</p>
             <div className={styles.unordered1}>
               <ul>
