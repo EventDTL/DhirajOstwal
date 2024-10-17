@@ -6,6 +6,7 @@ import Achievements from "../components/home/Achievements";
 import Award from "../components/home/Award"
 import GalleryContainer from "./gallery/Gallery11"
 import Employee from "../components/home/Employee"
+import Head from "next/head";
 
 export const generateMetadata = () => {
   return {
@@ -27,6 +28,9 @@ export default function Home() {
 
   return (
     <div>
+    <Head>
+    <title>CA Dhiraj Ostwal</title>
+    </Head>
         <Carousel/>
         <About/>
         <Achievements/>
