@@ -29,7 +29,54 @@ export default function Home() {
   return (
     <div>
     <Head>
-    <title>CA Dhiraj Ostwal</title>
+    <script type="application/ld+json">
+          {`{
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "CA Dhiraj Ostwal",
+            "url": "https://www.cadhirajostwal.com",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2nd Floor, Shree Krishna, 7, Shirole Lane, opp. Kiosk Koffee, off Fergusson College Road, Shivajinagar, Pune, Maharashtra 411004",
+              "city": "Pune",
+              "postalCode": "411004",
+              "country": "India"
+            },
+            "telephone": "+91 7020045454",
+            "email": "dhiraj.ostwal@gmail.com",
+            "openingHours": "Mo-sa 10:00-19:00",
+            "offers": [
+              {
+                "@type": "Article",
+                "name": "Income Tax Filing Service",
+                "url": "https://www.cadhirajostwal.com/services/tax_services/IncomeTax"
+              },
+              {
+                "@type": "Article",
+                "name": "TDS Filing Service",
+                "url": "https://www.cadhirajostwal.com/services/tax_services/TDS"
+              },
+              {
+                "@type": "Article",
+                "name": "GST Filing Service",
+                "url": "https://www.cadhirajostwal.com/services/tax_services/GST"
+              },
+              {
+                "@type": "Article",
+                "name": "Company Formation Guide",
+                "url": "https://www.cadhirajostwal.com/services/comforReg/CompF"
+              },{
+                "@type": "Article",
+                "name": "MSME Guide",
+                "url": "https://www.cadhirajostwal.com/services/comforReg/MSME"
+              },{
+                "@type": "Article",
+                "name": "Tax Audit Service",
+                "url": "https://www.cadhirajostwal.com/services/auditservices/TaxAudit"
+              }
+            ]
+          }`}
+        </script>
     </Head>
         <Carousel/>
         <About/>
