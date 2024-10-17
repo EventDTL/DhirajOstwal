@@ -32,7 +32,7 @@ export default function Home() {
     <script type="application/ld+json">
           {`{
             "@context": "https://schema.org",
-            "@type": "LocalBusiness",
+            "@type": "AccountingService",
             "name": "CA Dhiraj Ostwal",
             "url": "https://www.cadhirajostwal.com",
             "address": {
