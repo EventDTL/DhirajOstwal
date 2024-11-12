@@ -17,7 +17,7 @@ const ModalComponent = () => {
             className={styles.blogBtn}
             onClick={() =>
               window.open(
-                "https://wa.me/7020045454?text=Hi%20there,%20I'm%20interested%20in%20your%20services.",
+                "https://calendar.app.google/PFzcBiidS59cvDgT9",
                 "_blank",
                 "noopener noreferrer"
               )
