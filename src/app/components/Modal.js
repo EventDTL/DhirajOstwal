@@ -17,7 +17,7 @@ const ModalComponent = () => {
             className={styles.blogBtn}
             onClick={() =>
               window.open(
-                "https://calendar.app.google/PFzcBiidS59cvDgT9",
+                "https://wa.me/7020045454?text=Hi%20there,%20I'm%20interested%20in%20your%20services.",
                 "_blank",
                 "noopener noreferrer"
               )
@@ -35,7 +35,13 @@ const ModalComponent = () => {
         <div className={styles.appointmentButton}>
           <button
             className={styles.blogBtn}
-            onClick={() => setModalOpen(true)}
+            onClick={() =>
+              window.open(
+                "https://calendar.app.google/fWAtE1o6PaUALRDcA",
+                "_blank",
+                "noopener noreferrer"
+              )
+            }
           >
             <img
               width="25"
@@ -48,7 +54,7 @@ const ModalComponent = () => {
         </div>
       </div>
     </div>      
-      {isModalOpen && <Modal closeModal={() => setModalOpen(false)} />}
+     {/* {isModalOpen && <Modal closeModal={() => setModalOpen(false)} />} */}
     </>
   );
 };
