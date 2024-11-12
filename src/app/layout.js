@@ -15,7 +15,7 @@ const inter = Inter({ subsets: ["latin"] });
 // export const metadata = {
 //   title: "CA Dhiraj Ostwal",
 // };
-
+import { SpeedInsights } from '@vercel/speed-insights/next';
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
@@ -25,6 +25,7 @@ export default function RootLayout({ children }) {
         <QueryClientProvider client={queryClient}>
             <Navbar/>
               {children}
+              <SpeedInsights />
             <Footer/>
          {/* <ReactQueryDevtools initialIsOpen={false} /> */}
         </QueryClientProvider>
